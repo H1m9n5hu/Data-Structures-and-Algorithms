@@ -3,10 +3,13 @@ using namespace std;
 
 int main()
 {
-    int m,y;
+    int x,y,z;
     cout<<"Enter the month and year : ";
-    cin>>m>>y;
-    switch(m)
+    cin>>x>>y;
+    z=x;
+    if(x==4 || x==6)
+      x+=5;
+    switch((1<=x && x<=3)?x:840%x==0?5:4)
     {
         case 1:
             cout<<"Total number of days in first month are 31";
@@ -27,34 +30,11 @@ int main()
             cout<<"Total number of days in third month are 31";
             break;
         case 4:
-            cout<<"Total number of days in fourth month are 30";
+            cout<<"Total number of days in "<<z<<"th month are 30";
             break;
         case 5:
-            cout<<"Total number of days in fifth month are 31";
+            cout<<"Total number of days in "<<x<<"th month are 31";
             break;
-        case 6:
-            cout<<"Total number of days in sixth month are 30";
-            break;
-        case 7:
-            cout<<"Total number of days in seventh month are 31";
-            break;
-        case 8:
-            cout<<"Total number of days in eighth month are 31";
-            break;
-        case 9:
-            cout<<"Total number of days in nineth month are 30";
-            break;
-        case 10:
-            cout<<"Total number of days in tenth month are 31";
-            break;
-        case 11:
-            cout<<"Total number of days in eleventh month are 30";
-            break;
-        case 12:
-            cout<<"Total number of days in twelfth month are 31";
-            break;
-        default:
-            cout<<"Sorry,you entered wrong input";
     }
     return 0;
 }
