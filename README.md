@@ -1,0 +1,1 @@
+01 - number is prime or not
