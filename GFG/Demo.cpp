@@ -1,7 +1,8 @@
-#include<stdio.h>
-#include<conio.h>
-void main()
+#include<bits/stdc++.h>
+using namespace std;
+
+int main()
 {
-    printf("Hello Bhaiya");
-    getch();
+    
+    return 0;
 }
