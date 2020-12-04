@@ -3,28 +3,37 @@ using namespace std;
 
 int main()
 {
-    char a;
-    cout<<"Enter a alphabet in small letter : ";
-    cin>>a;
-    switch(a)
+    char x;
+    int y,z;
+    cout<<"Enter a alphabet : ";
+    cin>>x;
+    y=x;
+    z=x;
+    x=y<97?y+=32:y;
+    if((65<=z && z<=90) || (97<=z && z<=122))
     {
+        switch (x)
+        {
         case 'a':
-            cout<<a<<" is an Vowel";
-            break;
-        case 'e':
-            cout<<a<<" is an Vowel";
+            cout<<"It is an Vowel";
             break;
         case 'i':
-            cout<<a<<" is an Vowel";
+            cout<<"It is an Vowel";
+            break;
+        case 'e':
+            cout<<"It is an Vowel";
             break;
         case 'o':
-            cout<<a<<" is an Vowel";
+            cout<<"It is an Vowel";
             break;
         case 'u':
-            cout<<a<<" is an Vowel";
+            cout<<"It is an Vowel";
             break;
         default:
-            cout<<a<<" is an Consonant";
+            cout<<"It is an Consonant";
+        }
     }
+    else
+        cout<<"Sorry,You entered wrong input."<<endl<<"You can input only alphabet.";
     return 0;
 }
