@@ -15,17 +15,9 @@ int main()
         switch (x)
         {
         case 'a':
-            cout<<"It is an Vowel";
-            break;
         case 'i':
-            cout<<"It is an Vowel";
-            break;
         case 'e':
-            cout<<"It is an Vowel";
-            break;
         case 'o':
-            cout<<"It is an Vowel";
-            break;
         case 'u':
             cout<<"It is an Vowel";
             break;
