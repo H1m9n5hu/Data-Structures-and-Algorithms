@@ -1,4 +1,4 @@
 ### Practice Questions
 
 * **Programs of Switch Case Statement** 
-    * [P01 - number is prime or not](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/A_number_is_prime_or_not.cpp)
+    * [P01 - Write a program to print name of the day of week.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P01.cpp)
