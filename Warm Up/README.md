@@ -9,4 +9,6 @@
     * [P06 - Write a program to check whether a number is positive, negative or zero.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P06.cpp)
 
 * **Programs of Loops**
-    * [P08 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
+    * [P07 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
+    * [P08 - Write a program to check whether a number is Prime or Not.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P08.cpp)
+    * [P09 - Write a program to print all natural numbers from 1 to n in reverse order.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P09.cpp)
