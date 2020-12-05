@@ -7,3 +7,6 @@
     * [P04 - Write a program to find maximum between two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P04.cpp)
     * [P05 - Write a program to check whether a number is even or odd.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P05.cpp)
     * [P06 - Write a program to check whether a number is positive, negative or zero.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P06.cpp)
+
+* **Programs of Loops**
+    * [P08 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
