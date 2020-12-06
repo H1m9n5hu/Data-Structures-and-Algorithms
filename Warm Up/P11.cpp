@@ -4,11 +4,8 @@ using namespace std;
 int main()
 {
     int i=1;
-    while(i<=100)
-    {
+    while(100>=i++)
         if(i%2==0)
            cout<<i<<" ";
-        i++;
-    }
     return 0;
 }
