@@ -11,9 +11,7 @@ int main()
     {
         i=x%10;
         x=x/10;
-        if(x==0)
-            cout<<"First digit of "<<n<<" is "<<i<<" and ";
     }
-    cout<<"Last digit is "<<n%10<<".";
+    (n%10)+i>=0?cout<<"Sum of first and last digit of "<<n<<" is "<<((n%10)+i)<<".":cout<<"Sum of first and last digit of "<<n<<" is "<<-((n%10)+i)<<".";
     return 0;
 }
