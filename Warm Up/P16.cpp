@@ -1,9 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+int digits(long long x)
 int main()
 {
-    int n,i=0,x;
+    long long int n,i=0,x;
     cout<<"Enter a number : ";
     cin>>n;
     x=n;
