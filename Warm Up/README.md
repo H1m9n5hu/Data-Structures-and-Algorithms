@@ -11,4 +11,16 @@
 * **Programs of Loops**
     * [ P07 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
     * [ P08 - Write a program to check whether a number is Prime or Not.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P08.cpp)
-    * [ P09- Write a program to print all natural numbers from 1 to n in reverse order.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P09.cpp)
+    * [ P09 - Write a program to print all natural numbers from 1 to n in reverse order.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P09.cpp)
+    * [ P10 - Write a C program to print all alphabets from a to z.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P10.cpp)
+    * [ P11 - Write a C program to print all even numbers between 1 to 100.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P11.cpp)
+    * [ P12 - Write a C program to print all odd number between 1 to 100.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P12.cpp)
+    * [ P13 - Write a C program to find sum of all natural numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P13.cpp)
+    * [ P14 - Write a C program to find sum of all even numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P14.cpp)
+    * [ P15 - Write a C program to print multiplication table of any number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P15.cpp)
+    * [ P16 - Write a C program to count number of digits in a number.]()
+    * [ P17 - Write a C program to find sum of first and last digit of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P17.cpp)
+    * [ P18 - Write a C program to calculate sum of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P18.cpp)
+    * [ P19 - Write a C program to calculate product of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P19.cpp)
+    * [ P20 - Write a C program to enter a number and print its reverse.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P20.cpp)
+
