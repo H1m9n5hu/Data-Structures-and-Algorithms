@@ -23,4 +23,5 @@
     * [ P18 - Write a C program to calculate sum of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P18.cpp)
     * [ P19 - Write a C program to calculate product of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P19.cpp)
     * [ P20 - Write a C program to enter a number and print its reverse.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P20.cpp)
+    * [ P21 - Write a C program to check whether a number is palindrome or not.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P21.cpp)
 
