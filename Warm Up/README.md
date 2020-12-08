@@ -24,6 +24,7 @@
     * [ P19 - Write a C program to calculate product of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P19.cpp)
     * [ P20 - Write a C program to enter a number and print its reverse.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P20.cpp)
     * [ P21 - Write a C program to check whether a number is palindrome or not.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P21.cpp)
+    * [ P23 -Write a C program to find power of a number using for loop.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P23.cpp)
 
 * **Programs of arrays**
     * [ P22 - Write a C program to find frequency of each digit in a given integer.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P22.cpp)
