@@ -3,9 +3,10 @@ using namespace std;
 int digits(long long x);
 int main()
 {
-   long long int n,a[10]={0},i;
+   long long int n,a[10]={0},i,temp;
    cout<<"Find frequency of each digit in a given integer"<<endl<<"Enter any Integer : ";
    cin>>n;
+   temp=n;
    if(n<0) n=-n;
    while(n)
    {
