@@ -5,7 +5,6 @@ using namespace std;
 int main()
 {
     int n,i=2;
-    int factor(int,int);
     cout<<"Enter a number : ";
     cin>>n;
     if(n!=0)
