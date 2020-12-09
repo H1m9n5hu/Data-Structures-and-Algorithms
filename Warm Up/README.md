@@ -7,6 +7,7 @@
     * [ P04 - Write a program to find maximum between two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P04.cpp)
     * [ P05 - Write a program to check whether a number is even or odd.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P05.cpp)
     * [ P06 - Write a program to check whether a number is positive, negative or zero.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P06.cpp)
+    * [ P25-S - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25-S.cpp)
 
 * **Programs of Loops**
     * [ P07 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
@@ -24,7 +25,14 @@
     * [ P19 - Write a C program to calculate product of digits of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P19.cpp)
     * [ P20 - Write a C program to enter a number and print its reverse.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P20.cpp)
     * [ P21 - Write a C program to check whether a number is palindrome or not.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P21.cpp)
-    * [ P23 -Write a C program to find power of a number using for loop.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P23.cpp)
+    * [ P23 - Write a C program to find power of a number using for loop.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P23.cpp)
+    * [ P25 - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25.cpp)
+    * [ P26 - Write a C program to calculate factorial of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P26.cpp)
+    * [ P27 - Write a C program to find HCF of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P27.cpp)
+    * [ P28 - Write a C program to find LCM of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P28.cpp)
 
-* **Programs of arrays**
+* **Programs of Arrays**
     * [ P22 - Write a C program to find frequency of each digit in a given integer.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P22.cpp)
+
+* **Programs of Functions**
+    * [ P25-F - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25-F.cpp)
