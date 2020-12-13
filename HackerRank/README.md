@@ -1,5 +1,3 @@
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| S/N | Competative Questions   |  Solution Links  |
+| --- |:-----------------------:| ----------------:|
+| 01  | [ Let's Review ](https://www.hackerrank.com/challenges/30-review-loop/problem)      | [ Solution ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/HackerRank/HR01.cpp) |
