@@ -8,6 +8,7 @@
     * [ P05 - Write a program to check whether a number is even or odd.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P05.cpp)
     * [ P06 - Write a program to check whether a number is positive, negative or zero.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P06.cpp)
     * [ P25-S - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25-S.cpp)
+    * [ P31 - Write a C program to enter a number from 1 to 100 and print it in words by conditional operator.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P31.cpp)
 
 * **Programs of Loops**
     * [ P07 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
@@ -32,7 +33,6 @@
     * [ P28 - Write a C program to find LCM of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P28.cpp)
     * [ P29 - Write a C program to print all Prime numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P29.cpp)
     * [ P30 - Write a C program to enter a number from 1 to 100 and print it in words by loops.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P30.cpp)
-    * [ P31 - Write a C program to enter a number from 1 to 100 and print it in words by conditional operator.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P31.cpp)
 
 * **Programs of Arrays**
     * [ P22 - Write a C program to find frequency of each digit in a given integer.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P22.cpp)
