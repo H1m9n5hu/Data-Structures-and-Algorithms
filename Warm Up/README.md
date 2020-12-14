@@ -31,6 +31,8 @@
     * [ P27 - Write a C program to find HCF of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P27.cpp)
     * [ P28 - Write a C program to find LCM of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P28.cpp)
     * [ P29 - Write a C program to print all Prime numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P29.cpp)
+    * [ P30 - Write a C program to enter a number from 1 to 100 and print it in words by loops.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P30.cpp)
+    * [ P31 - Write a C program to enter a number from 1 to 100 and print it in words by conditional operator.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P31.cpp)
 
 * **Programs of Arrays**
     * [ P22 - Write a C program to find frequency of each digit in a given integer.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P22.cpp)
