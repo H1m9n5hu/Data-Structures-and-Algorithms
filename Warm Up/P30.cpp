@@ -1,3 +1,4 @@
+// Program to enter a number from 1 to 100 and print it in words by loop
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -34,7 +35,7 @@ int main()
                 }
                 K += 10;
             }
-            
+
             i == 0 ? a [ C ] : strcat ( a [ C ], a[ i ] );
             cout << temp << " = " << a [ C ];
        }
