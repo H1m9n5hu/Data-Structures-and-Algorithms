@@ -1,3 +1,4 @@
+// Program to enter a number from 1 to 100 and print it in words by conditional operator
 #include <bits/stdc++.h>
 
 using namespace std;
