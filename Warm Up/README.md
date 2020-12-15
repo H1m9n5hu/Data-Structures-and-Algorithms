@@ -9,6 +9,7 @@
     * [ P06 - Write a program to check whether a number is positive, negative or zero.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P06.cpp)
     * [ P25-S - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25-S.cpp)
     * [ P31 - Write a C program to enter a number from 1 to 100 and print it in words by conditional operator.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P31.cpp)
+    * [ P32 - Write a C program to enter a number from 1 to 999 and print it in words.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P32.cpp)
 
 * **Programs of Loops**
     * [ P07 - Write a program to print all natural numbers from 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P07.cpp)
