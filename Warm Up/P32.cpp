@@ -91,8 +91,6 @@ int main()
             
             cout << temp << " = " << a [ i ];
         }
-        else
-            cout << "Sorry" << endl << "You entered wrong input.";
 
         cout << endl;
     }
