@@ -14,7 +14,7 @@ int main()
     {
         int N;
         cin >> N;
-        int a [ N ], i, k;
+        int a [ N ], i;
         for ( i = 0; i < N; i++ )
             cin >> a[ i ];
 
