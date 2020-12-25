@@ -13,6 +13,7 @@ int main()
     while ( t-- )
     {
         string S, s;
+        getline ( cin, S );
         cin >> S;
         int N, i, j, k = 0;
         N = S.size();
