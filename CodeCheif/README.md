@@ -11,7 +11,7 @@
           | 2  |[Even Pair Sum(my logic)](https://www.codechef.com/DEC20B/problems/EVENPSUM) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C02.cpp) |
           | 3  |[Positive Prefixes](https://www.codechef.com/DEC20B/problems/POSPREFS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C03.cpp) |
 
-  * ### [ January Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
+    * ### [ January Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
 
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
