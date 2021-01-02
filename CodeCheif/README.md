@@ -14,5 +14,5 @@
   * ### [ January Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
 
         * | **S/N** | **Questions**   | **Solutions**  |
-          | :---|:------------------------|:-----------|
+          | :-------|:----------------|:---------------|
           | 1  |[Chef and Division 3](https://www.codechef.com/JAN21C/problems/DIVTHREE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C04.cpp) |
