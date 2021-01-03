@@ -44,7 +44,7 @@ int main()
                     break;
                 }
             }
-            if ( accumulate ( a, a + N, Sum_a ) < accumulate ( b, b + M, Sum_b ) )
+            if ( accumulate ( a, a + N, Sum_a ) <= accumulate ( b, b + M, Sum_b ) )
             {
                 j = -1;
                 cout << j;
