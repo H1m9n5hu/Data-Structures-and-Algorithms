@@ -35,7 +35,8 @@ int main()
             {
                 Sum_a = 0;
                 Sum_b = 0;
-                swap ( a [ i ], b [ i ] );
+                if ( a [ i ] < b [ i ] )
+                    swap ( a [ i ], b [ i ] );
                 j++;
                 if ( accumulate ( a, a + N, Sum_a ) > accumulate ( b, b + M, Sum_b ) )
                 {
