@@ -16,3 +16,4 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Chef and Division 3](https://www.codechef.com/JAN21C/problems/DIVTHREE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C04.cpp) |
+          | 2  | [Fair Elections](https://www.codechef.com/JAN21C/problems/FAIRELCT) | [Solution]() |

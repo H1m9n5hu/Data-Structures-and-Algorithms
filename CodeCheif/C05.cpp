@@ -26,7 +26,7 @@ int main()
         int Sum_a = 0, Sum_b = 0, j = 0;
         Sum_a = accumulate ( a, a + N, Sum_a );
         Sum_b = accumulate ( b, b + M, Sum_b );
-        
+
         if ( Sum_a > Sum_b )
             cout << j;
         else
