@@ -18,3 +18,11 @@
           | 1  | [Chef and Division 3](https://www.codechef.com/JAN21C/problems/DIVTHREE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C04.cpp) |
           | 2  | [Fair Elections](https://www.codechef.com/JAN21C/problems/FAIRELCT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C05.cpp) |
           | 3  | [Encoded String](https://www.codechef.com/JAN21C/problems/DECODEIT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C06.cpp) |
+
+* ## Short time Contest Questions
+
+  * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
+
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Pattern21](https://www.codechef.com/PBK72021/problems/ITGUY93) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C07.cpp) |
