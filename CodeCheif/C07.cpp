@@ -12,23 +12,20 @@ int main()
     
     while ( t-- )
     {
-        int k, i = 0, j = 0, n = 0;
+        int k, i = 0, j = 0;
         cin >> k;
         vector <char> a = { 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z' };
         for ( i; i < k; i++ )
         {
-            for ( j = i; j < k; j++ )
+            if ( j == 0 )
             {
-                if ( n == 0 )
-                {
-                    for ( n = 0; n < k; n++ )
-                        cout << a [ n ];
-                    cout << endl;
-                    a.pop_back();
-                    a.insert ( a.begin() + j, '_');
-                }
+                for ( j = 0; j < k; j++ )
+                    cout << a [ j ];
+                cout << endl;
+                a.pop_back();
+                a.insert ( a.begin() + i, '_');
             }
-            n = 0;
+            j = 0;
             if ( i == k )
                 break;
         }
