@@ -19,6 +19,12 @@
           | 2  | [Fair Elections](https://www.codechef.com/JAN21C/problems/FAIRELCT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C05.cpp) |
           | 3  | [Encoded String](https://www.codechef.com/JAN21C/problems/DECODEIT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C06.cpp) |
 
+    * ### [ February Challenge 2021 Division 3 ](https://www.codechef.com/FEB21C)
+
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Highest Divisor](https://www.codechef.com/FEB21C/problems/HDIVISR) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C08.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
