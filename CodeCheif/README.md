@@ -24,6 +24,7 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Highest Divisor](https://www.codechef.com/FEB21C/problems/HDIVISR) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C08.cpp) |
+          | 2  | [Maximise Function](https://www.codechef.com/FEB21C/problems/MAXFUN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C09.cpp) |
 
 * ## Short time Contest Questions
 
