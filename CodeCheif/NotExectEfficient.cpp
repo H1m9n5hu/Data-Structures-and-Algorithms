@@ -65,17 +65,22 @@ int main()
             if ( q.substr( 15, 2 ) == "AM" && y == 12 )
                 c = 0;
 
+            cout << x << ":" << y << " " << c << ":" << d << endl;
+
             if ( x <= a && a <= c )
             {
-                if ( y <= b && b <= d )
+                if ( x == a && c == a )
                 {
-                    cout << "1";
+                    if ( y <= b && b <= d )
+                        cout << "1" << endl;
+                    else
+                        cout << "0" << endl;
                 }
                 else
-                    cout << "0";
+                    cout << "1" << endl;
             }
             else 
-                cout << "0";
+                cout << "0" << endl;
         }
         cout << endl;
     }
