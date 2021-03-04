@@ -12,7 +12,7 @@ int main()
     
     while ( t-- )
     {
-        int n, sum = 0;
+        int n;
         cin >> n;
         
         if ( n <= 0 )
