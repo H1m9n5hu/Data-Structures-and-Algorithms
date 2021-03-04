@@ -17,19 +17,19 @@ int main()
         
         if ( n <= 0 )
             cout << "You enter a invalid Number.";
-
-        for ( int i = 1; i <= n; i++ )
-        {      
-            if ( n%i == 0 )
-            {
-                int k = 0;
-                for ( int j = 1; j <= i; j++ )
-                    if ( i%j == 0 )
-                        k++;
-                if ( k == 1 || k == 2 )
-                    cout << i << " ";
+        else
+            for ( int i = 1; i <= n; i++ )
+            {      
+                if ( n%i == 0 )
+                {
+                    int k = 0;
+                    for ( int j = 1; j <= i; j++ )
+                        if ( i%j == 0 )
+                            k++;
+                    if ( k == 1 || k == 2 )
+                        cout << i << " ";
+                }
             }
-        }
 
         cout << endl;
     }
