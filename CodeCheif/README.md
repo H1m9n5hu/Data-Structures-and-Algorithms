@@ -26,6 +26,11 @@
           | 1  | [Highest Divisor](https://www.codechef.com/FEB21C/problems/HDIVISR) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C08.cpp) |
           | 2  | [Maximise Function](https://www.codechef.com/FEB21C/problems/MAXFUN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C09.cpp) |
 
+    * ### [ March Challenge 2021 Division 3 ](https://www.codechef.com/MARCH21C)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Chef and Groups](https://www.codechef.com/MARCH21C/problems/GROUPS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C10.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
