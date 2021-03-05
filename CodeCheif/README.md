@@ -1,6 +1,6 @@
 # Contest Questions
 
-* ## 10 Days Contest Questions
+* ## 10 Days Long Contest Questions
 
     * ### [ December Long Challenge 2020 ](https://www.codechef.com/DEC20B?order=desc&sortBy=successful_submissions)
 
@@ -11,7 +11,7 @@
           | 2  |[Even Pair Sum(my logic)](https://www.codechef.com/DEC20B/problems/EVENPSUM) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C02.cpp) |
           | 3  |[Positive Prefixes](https://www.codechef.com/DEC20B/problems/POSPREFS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C03.cpp) |
 
-    * ### [ January Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
+    * ### [ January Long Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
 
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
@@ -19,14 +19,14 @@
           | 2  | [Fair Elections](https://www.codechef.com/JAN21C/problems/FAIRELCT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C05.cpp) |
           | 3  | [Encoded String](https://www.codechef.com/JAN21C/problems/DECODEIT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C06.cpp) |
 
-    * ### [ February Challenge 2021 Division 3 ](https://www.codechef.com/FEB21C)
+    * ### [ February Long Challenge 2021 Division 3 ](https://www.codechef.com/FEB21C)
 
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Highest Divisor](https://www.codechef.com/FEB21C/problems/HDIVISR) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C08.cpp) |
           | 2  | [Maximise Function](https://www.codechef.com/FEB21C/problems/MAXFUN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C09.cpp) |
 
-    * ### [ March Challenge 2021 Division 3 ](https://www.codechef.com/MARCH21C)
+    * ### [ March Long Challenge 2021 Division 3 ](https://www.codechef.com/MARCH21C)
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Chef and Groups](https://www.codechef.com/MARCH21C/problems/GROUPS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C10.cpp) |
