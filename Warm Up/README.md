@@ -41,6 +41,7 @@
     * [ P34 - Write a C program to decode an code which is given in Integer form.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P34.cpp)
     * [ P35 - Write a C program to find sum of all prime numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P35.cpp)
     * [ P36 - Write a C program to find all prime factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P36.cpp)
+    * [ P37 - Write a C program to print all Armstrong numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P37.cpp)
 
 * **Programs of Functions**
     * [ P25-F - Write a C program to find all factors of a number.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P25-F.cpp)
