@@ -1,0 +1,5 @@
+28 is a Perfect Number.
+553 is not a Perfect Number.
+496 is a Perfect Number.
+33550336 is a Perfect Number.
+8128 is a Perfect Number.
