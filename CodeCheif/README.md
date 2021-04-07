@@ -32,6 +32,11 @@
           | 1  | [Chef and Groups](https://www.codechef.com/MARCH21C/problems/GROUPS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C10.cpp) |
           | 2  | [No Time to Wait](https://www.codechef.com/MARCH21C/problems/NOTIME) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C11.cpp) |
 
+    * ### [ April Long Challenge 2021 Division 3 ](https://www.codechef.com/APRIL21C?order=desc&sortBy=successful_submissions)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C12.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
