@@ -37,6 +37,7 @@
           | :---|:------------------------|:-----------|
           | 1  | [Valid Pair](https://www.codechef.com/APRIL21C/problems/SOCKS1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C12.cpp) |
           | 2  | [World Record](https://www.codechef.com/APRIL21C/problems/BOLT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C13.cpp) |
+          | 3  | [Strong Language](https://www.codechef.com/APRIL21C/problems/SSCRIPT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C14.cpp) |
 
 * ## Short time Contest Questions
 
