@@ -35,7 +35,7 @@
     * [ P28 - Write a C program to find LCM of two numbers.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P28.cpp)
     * [ P29 - Write a C program to print all Prime numbers between 1 to n.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P29.cpp)
     * [ P30 - Write a C program to enter a number from 1 to 100 and print it in words by loops.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P30.cpp)
-    * [ P40 ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P40.cpp)[-]()[ Worthy Matrix(Question)](https://www.codechef.com/APRIL21C/problems/KAVGMAT) [Solution]
+    * [ P40 ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P40.cpp)[-]()[ Worthy Matrix(Question)](https://www.codechef.com/APRIL21C/problems/KAVGMAT) [[Solution]](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P40.cpp)
 
 
 * **Programs of Arrays and Vectors**
