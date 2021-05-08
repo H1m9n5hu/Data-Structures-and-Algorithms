@@ -43,6 +43,7 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Solubility](https://www.codechef.com/MAY21C/problems/SOLBLTY) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C18.cpp) |
+          | 2  | [Golf](https://www.codechef.com/MAY21C/problems/LKDNGOLF) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C19.cpp) |
 
 
 * ## Short time Contest Questions
