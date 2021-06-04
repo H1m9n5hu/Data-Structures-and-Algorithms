@@ -45,7 +45,10 @@
           | 1  | [Solubility](https://www.codechef.com/MAY21C/problems/SOLBLTY) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C18.cpp) |
           | 2  | [Golf](https://www.codechef.com/MAY21C/problems/LKDNGOLF) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C19.cpp) |
           | 3  | [XOR Equality](https://www.codechef.com/MAY21C/problems/XOREQUAL) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C20.cpp) |
-
+    * ### [June Long Challenge 2021 Division 3 ](https://www.codechef.com/JUNE21C)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Summer Heat](https://www.codechef.com/JUNE21C/problems/COCONUT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C23.cpp) |
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
