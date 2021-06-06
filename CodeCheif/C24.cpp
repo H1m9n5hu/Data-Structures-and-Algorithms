@@ -11,9 +11,9 @@ int main()
     
     while ( t-- )
     {
-        int D, d, P, Q;
+        long int D, d, P, Q;
         cin >> D >> d >> P >> Q;
-        int total = 0, n = 0, rem = 0;
+        long int total = 0, n = 0, rem = 0;
 
         n = D/d - 1;
         rem = D%d;
@@ -21,13 +21,13 @@ int main()
 
         if ( D%d != 0 )
         {
-            int S = 0;
+            long int S = 0;
             S = 2*Q + ( n - 1 )*Q;
             total = D*P + (n*S*d)/2 + ( n + 1 )*Q*rem;
         }  
         else
         {
-            int S = 0;
+            long int S = 0;
             S = 2*Q + ( n - 1 )*Q;
             total = D*P + (n*S*d)/2;
         }
