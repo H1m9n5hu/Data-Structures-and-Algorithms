@@ -50,6 +50,7 @@
           | :---|:------------------------|:-----------|
           | 1  | [Summer Heat](https://www.codechef.com/JUNE21C/problems/COCONUT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C23.cpp) |
           | 2  | [Bella Ciao](https://www.codechef.com/JUNE21C/problems/CHFHEIST) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C24.cpp) |
+          | 2  | [Bitwise Tuples](https://www.codechef.com/JUNE21C/problems/BITTUP) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C25.cpp) |
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
