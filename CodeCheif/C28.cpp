@@ -12,12 +12,12 @@ int main()
     while ( t-- )
     {
         int g, c, height;
-		cin >> g >> c;
+	cin >> g >> c;
 		
-		height = c*c;
-		height /= (2*g);
+	height = c*c;
+	height /= (2*g);
 		
-		cout << height << endl;
+	cout << height << endl;
     }
     
     return 0;
