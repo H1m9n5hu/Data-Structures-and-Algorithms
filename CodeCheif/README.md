@@ -56,6 +56,7 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Maximum Production](https://www.codechef.com/JULY21C/problems/EITA) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C27.cpp) |
+          | 1  | [Relativity](https://www.codechef.com/JULY21C/problems/RELATIVE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C28.cpp) |
 
 * ## Short time Contest Questions
 
