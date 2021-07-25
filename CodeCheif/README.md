@@ -56,7 +56,7 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Maximum Production](https://www.codechef.com/JULY21C/problems/EITA) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C27.cpp) |
-          | 1  | [Relativity](https://www.codechef.com/JULY21C/problems/RELATIVE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C28.cpp) |
+          | 2  | [Relativity](https://www.codechef.com/JULY21C/problems/RELATIVE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C28.cpp) |
 
 * ## Short time Contest Questions
 
@@ -71,3 +71,4 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Food Chain](https://www.codechef.com/START7C/problems/FODCHAIN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C29.cpp) |
+          | 2  | [Chess Format](https://www.codechef.com/START7C/problems/CHSFORMT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C30.cpp) |
