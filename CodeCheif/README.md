@@ -65,3 +65,9 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Pattern21](https://www.codechef.com/PBK72021/problems/ITGUY93) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C07.cpp) |
+
+    * ### [ CodeChef Starters 7 Division 3 2021 ](https://www.codechef.com/START7C)
+
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Food Chain](https://www.codechef.com/START7C/problems/FODCHAIN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C29.cpp) |
