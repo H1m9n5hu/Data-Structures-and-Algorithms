@@ -6,11 +6,10 @@
 
         * | S/N | Questions   | Solutions  |
           | :---|:------------------------|:-----------|
-          | 1  |[Vaccine Production](https://www.codechef.com/DEC20B/problems/VACCINE1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C01.cpp) |
-          | 1.1  |[Vaccine Production(my logic)](https://www.codechef.com/DEC20B/problems/VACCINE1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C01.1.cpp) |
-          | 2  |[Even Pair Sum(my logic)](https://www.codechef.com/DEC20B/problems/EVENPSUM) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C02.cpp) |
-          | 3  |[Positive Prefixes](https://www.codechef.com/DEC20B/problems/POSPREFS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C03.cpp) |
-
+          | 1  | [Vaccine Production](https://www.codechef.com/DEC20B/problems/VACCINE1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C01.cpp) |
+          | 1.1 | [Vaccine Production(my logic)](https://www.codechef.com/DEC20B/problems/VACCINE1) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C01.1.cpp) |
+          | 2  | [Even Pair Sum(my logic)](https://www.codechef.com/DEC20B/problems/EVENPSUM) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C02.cpp) |
+          | 3  | [Positive Prefixes](https://www.codechef.com/DEC20B/problems/POSPREFS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C03.cpp) |
     * ### [ January Long Challenge 2021 Division 3 ](https://www.codechef.com/JAN21C?order=desc&sortBy=successful_submissions)
 
         * | S/N | Questions | Solutions |
@@ -72,3 +71,4 @@
           | :---|:------------------------|:-----------|
           | 1  | [Food Chain](https://www.codechef.com/START7C/problems/FODCHAIN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C29.cpp) |
           | 2  | [Chess Format](https://www.codechef.com/START7C/problems/CHSFORMT) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C30.cpp) |
+          | 2  | [Ceiling Sum](https://www.codechef.com/START7C/problems/CEILSUM) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C31.cpp) |
