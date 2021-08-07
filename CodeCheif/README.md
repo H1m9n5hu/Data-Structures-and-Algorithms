@@ -57,7 +57,7 @@
           | 1  | [Maximum Production](https://www.codechef.com/JULY21C/problems/EITA) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C27.cpp) |
           | 2  | [Relativity](https://www.codechef.com/JULY21C/problems/RELATIVE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C28.cpp) |
 
-    * ### [ July Long Challenge 2021 Division 3 ](https://www.codechef.com/JUNE21C)
+    * ### [ August Long Challenge 2021 Division 3 ](https://www.codechef.com/JUNE21C)
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Olympics Ranking](https://www.codechef.com/AUG21C/problems/OLYRANK) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C32.cpp) |
