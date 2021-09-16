@@ -63,6 +63,13 @@
           | 1  | [Olympics Ranking](https://www.codechef.com/AUG21C/problems/OLYRANK) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C32.cpp) |
           | 2  | [Problem Difficulties](https://www.codechef.com/AUG21C/problems/PROBDIFF) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C33.cpp) |
 
+    * ### [ September Long Challenge 2021 Division 3 ](https://www.codechef.com/SEPT21C)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Airline Restrictions](https://www.codechef.com/SEPT21C/problems/AIRLINE) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C35.cpp) |
+          | 2  | [Travel Pass](https://www.codechef.com/SEPT21C/problems/TRAVELPS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C36.cpp) |
+          | 3  | [Shuffling Parities](https://www.codechef.com/SEPT21C/problems/SHUFFLIN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C37.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
