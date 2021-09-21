@@ -6,28 +6,43 @@ int main()
     freopen ( "input.txt", "r", stdin );
     freopen ( "output.txt", "w", stdout );
 
-    int t;
-    cin >> t;
-    while(t--)
+    int R;
+    cin >> R;
+    while(R--)
     {
-        int N;
-        cin >> N;
-        long int A[N], B[N];
-        for(long int i = 0; i < N; i++)
-            cin >> A[i];
-        for(long int i = 0; i < N; i++)
-            cin >> B[i];
+        int L;
+        cin >> L;
+        string report;
+        cin >> report;
 
-        long int student = 0;
-        for(int i = 0; i < N; i++)
+        bool flag = true, flag1 = false;
+        for(int i = 0; i < L; i++)
         {
-            if(A[i] >= B[i] && i == 0)
-                student++;
-            if(A[i] - A[i-1] >= B[i] && i > 0)
-                student++;
+            if(report[i] == 'T' && flag1 == false)
+            {
+                flag = false;
+                break;
+            }
+            else if(report[i] == 'H' && flag == true)
+            {
+                flag = false;
+                flag1 = true;
+            }
+            else if(report[i] == 'H' && flag == false)
+                break;
+            else if(report[i] == 'T' && flag == false)
+                flag = true;
+            else if(report[i] == 'T' && flag == true)
+            {
+                flag = false;
+                break;
+            }
         }
 
-        cout << student << endl;
+        if(flag)
+            cout << "Valid" << endl;
+        else
+            cout << "Invalid" << endl;
     }
     return 0;
 }
