@@ -37,7 +37,6 @@
     * [ P30 - Write a C program to enter a number from 1 to 100 and print it in words by loops.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P30.cpp)
     * [ P40 - Worthy Matrix(Question)](https://www.codechef.com/APRIL21C/problems/KAVGMAT) [/]() [[Solution]](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P40.cpp)
 
-
 * **Programs of Arrays and Vectors**
     * [ P22 - Write a C program to find frequency of each digit in a given integer.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P22.cpp)
     * [ P34 - Write a C program to decode an code which is given in Integer form.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/P34.cpp)
@@ -51,5 +50,8 @@
 
 ### Data Structure and Algorithms
 
+* **Stack**
+    * [ C28 - Implementation of Stack with Linked List or Dynamic Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C28.c)
+
 * **Queue**
-    * [ C29 - Implementation of Queue with Array or Static Memory Allocation. ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C29.c)
+    * [ C29 - Implementation of Queue with Array or Static Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C29.c)
