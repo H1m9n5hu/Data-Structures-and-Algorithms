@@ -51,6 +51,7 @@
 ### Data Structure and Algorithms
 
 * **Stack**
+    * [ C27 - Implement Stack with Array or Static Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C27.c)
     * [ C28 - Implementation of Stack with Linked List or Dynamic Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C28.c)
 
 * **Queue**
