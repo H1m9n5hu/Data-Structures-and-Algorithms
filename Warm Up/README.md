@@ -52,4 +52,4 @@
 ### Data Structure and Algorithms
 
 * **Queue**
-    * [ C29 - Implementation of Queue with Array or Static Memory Allocation ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C29.c)
+    * [ C29 - Implementation of Queue with Array or Static Memory Allocation. ](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C29.c)
