@@ -56,3 +56,5 @@
 
 * **Queue**
     * [ C29 - Implementation of Queue with Array or Static Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C29.c)
+    * [ C30 - Implementation of Queue with Linked List or Dynamic Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C30.c)
+    * [ C31 - Implementation of Circular Queue with Array or Static Memory Allocation.](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/Warm%20Up/C31.c)
