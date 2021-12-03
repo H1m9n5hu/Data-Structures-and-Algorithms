@@ -74,6 +74,7 @@
         * | S/N | Questions | Solutions |
           | :---|:------------------------|:-----------|
           | 1  | [Placement Sets](https://www.codechef.com/DEC21C/problems/UTKPLC) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C46.cpp) |
+          | 2  | [List of Lists](https://www.codechef.com/DEC21C/problems/LISTLIST) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C47.cpp) |
 
 * ## Short time Contest Questions
 
