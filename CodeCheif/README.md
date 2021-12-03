@@ -70,6 +70,11 @@
           | 2  | [Travel Pass](https://www.codechef.com/SEPT21C/problems/TRAVELPS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C36.cpp) |
           | 3  | [Shuffling Parities](https://www.codechef.com/SEPT21C/problems/SHUFFLIN) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C37.cpp) |
 
+    * ### [ December Long Challenge Division 3 2021 ](https://www.codechef.com/DEC21C?order=desc&sortBy=successful_submissions)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Placement Sets](https://www.codechef.com/DEC21C/problems/UTKPLC) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C46.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
