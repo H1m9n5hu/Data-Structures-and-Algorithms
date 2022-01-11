@@ -78,6 +78,14 @@
           | 3  | [Valleys and Hills](https://www.codechef.com/DEC21C/problems/VANDH) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C48.cpp) |
           | 4  | [Rock Paper Scissors](https://www.codechef.com/DEC21C/problems/ROPASCI) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C49.cpp) |
 
+    * ### [ Januaray Long Challenge Division 3 2022 ](https://www.codechef.com/JAN221C?order=desc&sortBy=successful_submissions)
+        * | S/N | Questions | Solutions |
+          | :---|:------------------------|:-----------|
+          | 1  | [Kepler's Law](https://www.codechef.com/JAN221C/problems/KEPLERSLAW) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C51.cpp) |
+          | 2  | [COVID Spread in C++](https://www.codechef.com/JAN221C/problems/COVSPRD) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C50.cpp) |
+          | 3  | [COVID Spread in Python](https://www.codechef.com/JAN221C/problems/COVSPRD) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C50.py) |
+          | 4  | [Prime in a Binary String](https://www.codechef.com/JAN221C/problems/PINBS) | [Solution](https://github.com/HluciferS/Data-Structures-and-Algorithms/blob/master/CodeCheif/C52.cpp) |
+
 * ## Short time Contest Questions
 
     * ### [ Push back Challenge 2021 ](https://www.codechef.com/PBK72021?itm_campaign=contest_listing)
