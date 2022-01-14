@@ -1,6 +1,6 @@
 # Contest Questions And Their Answers
 
-* ## 10 Days Long Contest Questions
+* ## Long Contest Questions
 
     * ### [ December Long Challenge 2020 ](https://www.codechef.com/DEC20B?order=desc&sortBy=successful_submissions)
 
